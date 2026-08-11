@@ -1,0 +1,8 @@
+{
+  "name": "Vitamin Tracker",
+  "description": "A monochrome dashboard for tracking vitamin intake from hardware devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
